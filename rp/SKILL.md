@@ -13,7 +13,7 @@ This skill is a thin alias for `reasoning-personas`.
 - Need structured multi-angle reasoning
 
 ## Behavior
-1. Load and follow the local `reasoning-personas` skill (`/home/hermes/.hermes/skills/reasoning-personas/SKILL.md`).
+1. Load and follow the installed `reasoning-personas` skill.
 2. Default mode for `/rp`: run Multi-Persona Analysis in order:
    - Pattern Hunter
    - Gonzo Truth-Seeker
